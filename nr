@@ -1,2 +1,2 @@
 nirmala reddy vari
-from banaglore
+from banaglore ,native ap
